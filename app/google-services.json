@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "889810292349",
+    "firebase_url": "https://healthyvia-555.firebaseio.com",
+    "project_id": "healthyvia-555",
+    "storage_bucket": "healthyvia-555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889810292349:android:d5f8484f33819bbe",
+        "android_client_info": {
+          "package_name": "com.healthyvia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889810292349-7snsbbtdr1n665e97h2520tvv8mfa4du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthyvia",
+            "certificate_hash": "dd2031f5f21d7e6060b3ae7f777092b4758e2fbc"
+          }
+        },
+        {
+          "client_id": "889810292349-9nitkk8d8fqdqggvbo7t12o6qbjaqkv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY29D0q0QnYqBftFgnIASg3-fUKvuKywI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889810292349-9nitkk8d8fqdqggvbo7t12o6qbjaqkv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

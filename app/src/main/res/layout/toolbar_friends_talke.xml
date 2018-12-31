@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <customfonts.MyTextView_Roboto_Bold
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:text="DASHBOARD"
+        android:textColor="#454545"
+        android:textSize="16.7sp" />
+
+    <ImageView
+        android:id="@+id/add_responder_ic"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/creategroup_popup"
+        android:tint="#f74276" />
+
+    <customfonts.textview_proxima_bold
+        android:id="@+id/add_responder"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="right|center"
+        android:textStyle="bold"
+        android:layout_marginRight="15dp"
+        android:text="ADD RESPONDER" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_gravity="right"
+        android:visibility="gone"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/search" />
+
+</android.support.v7.widget.Toolbar>
