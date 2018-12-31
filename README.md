@@ -1,4 +1,4 @@
-## HealthyVia, A virtual Emergency Medical Technician service for the people during medical emergencies through video call. 
+## HealthyVia, a virtual Emergency Medical Technician service for the people during medical emergencies through video call. 
 
 Website: healthyvia.com 
 
