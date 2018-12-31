@@ -10,5 +10,18 @@ HealthyVia connects a victim who is having a medical emergency like heart-stroke
 
 P.S. It will be designed in such a way that people use this platform during waiting time after calling for an ambulance.
 
+## Mobile App:
+APK here: https://drive.google.com/drive/folders/1Bg8LSGOCaxBd0dLJghgX4ipRj4fGBGDC?usp=sharing 
+
+To build on your own, 
+1. Clone the code and change the AGORA_APP_ID to yours obtained from Agora dashboard. 
+2. Done. :) 
+
+## Available Variations:
+HealthyVia app consists of two components:
+1. User app, for the vicitms and their responders to virtually connect with the EMT services.
+2. Emergency Medical Technician app for the EMTs and emergency doctors to assist victims while they wait for ambulance.
+
+
 ## Future:
 Within one week, we have already partnered with a local hospital here in Bangalore and planning to extend this product to full-fill this product objective 'Virtual Emergency Medical Service for the rural or developing India.'
